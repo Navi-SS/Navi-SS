@@ -1,29 +1,28 @@
-# [![https://smaepyp.super.site/](images/foto.png)](https://smaepyp.super.site) Hola, Aquí Iván Castañeda 👋
+# [![https://vaniadev.super.site/](images/foto.png)](https://vaniadev.super.site) Hola, Aquí Iván Castañeda 👋
 ### Python and Artificial Intelligence Developer
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCO-fxKsVhPzpl4y0_D1n8oQ)](https://youtube.com/@SMAEPYP?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCO-fxKsVhPzpl4y0_D1n8oQ)](https://youtube.com/@vaniadev?sub_confirmation=1)
 [![Discord](https://img.shields.io/discord/748647891546931200
 )](https://discord.com/invite/nxxZ5S4Stz)
-[![SMAEPYP](https://img.shields.io/website?url=https%3A%2F%2Fsmaepyp.super.site%2F&up_message=SMAEPYP)](https://smaepyp.super.site/)
+[![vaniadev](https://img.shields.io/website?url=https%3A%2F%2Fvaniadev.super.site%2F&up_message=vaniadev)](https://vaniadev.super.site/)
 ![GitHub Followers](https://img.shields.io/github/followers/navi-ss)
 
 
 Soy ingeniero petrolero con una pasión por el desarrollo tecnológico desde 2019. 🚀
 
-En 2020, lancé SMAEPYP, un proyecto innovador que fusiona la ingeniería petrolera con la programación en Python. 🌟 Con [SMAEPYP](https://smaepyp.super.site/), he creado una comunidad vibrante y pionera, colaborando con capítulos estudiantiles, eventos y comunidades por toda Latinoamérica. 🌎
+En 2020, lancé vaniadev, un proyecto innovador que fusiona la ingeniería petrolera con la programación en Python. 🌟 Con [vaniadev](https://vaniadev.super.site/), he creado una comunidad vibrante y pionera, colaborando con capítulos estudiantiles, eventos y comunidades por toda Latinoamérica. 🌎
 
 Mi objetivo es compartir conocimientos y experiencias laborales a través de contenido educativo, inspirando a más personas a explorar nuevos horizontes y a ampliar sus habilidades. 📚✨
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-SMAEPYP-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@SMAEPYP)
-[![Discord](https://img.shields.io/badge/Discord-SMAEPYP-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/invite/nxxZ5S4Stz)
-[![Instagram](https://img.shields.io/badge/Instagram-@smaepyp-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/smaepyp/)
-[![TikTok](https://img.shields.io/badge/TikTok-@smaepyp-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@smaepyp)
-[![Facebook](https://img.shields.io/badge/Facebook-@smaepyp-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/SMAEMX)
-[![Link](https://img.shields.io/badge/Links-smaepyp-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://beacons.ai/smaepyp)
+[![YouTube](https://img.shields.io/badge/YouTube-vaniadev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@VANIADEV)
+[![Instagram](https://img.shields.io/badge/Instagram-@vaniadev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/vania_dev_/)
+[![TikTok](https://img.shields.io/badge/TikTok-@vaniadev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@vania_dev_)
+[![Facebook](https://img.shields.io/badge/Facebook-@vaniadev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/SMAEMX)
+[![Link](https://img.shields.io/badge/Links-vaniadev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://beacons.ai/vaniadev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan_Castañeda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-casta%C3%B1eda/)
-[![Web](https://img.shields.io/badge/Web-smaepyp-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://smaepyp.super.site/)
+[![Web](https://img.shields.io/badge/Web-vaniadev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://vaniadev.super.site/)
 
 # Algunos proyectos
 
