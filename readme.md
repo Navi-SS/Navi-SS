@@ -2,8 +2,6 @@
 ### Python and Artificial Intelligence Developer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCO-fxKsVhPzpl4y0_D1n8oQ)](https://youtube.com/@vaniadev?sub_confirmation=1)
-[![Discord](https://img.shields.io/discord/748647891546931200
-)](https://discord.com/invite/nxxZ5S4Stz)
 [![vaniadev](https://img.shields.io/website?url=https%3A%2F%2Fvaniadev.super.site%2F&up_message=vaniadev)](https://vaniadev.super.site/)
 ![GitHub Followers](https://img.shields.io/github/followers/navi-ss)
 
